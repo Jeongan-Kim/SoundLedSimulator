@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="SoundLedSimulator.cpp">
+    <ClCompile Include="Mic_Camera_LED_Simulator.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
